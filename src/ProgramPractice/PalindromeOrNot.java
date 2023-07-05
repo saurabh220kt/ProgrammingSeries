@@ -4,7 +4,6 @@ public class PalindromeOrNot {
 
 	public static void main(String[] args) {
 		String s = "1221";
-		String res = " ";
 		int i=0;
 		int j = s.length()-1;
 		
